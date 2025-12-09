@@ -44,3 +44,7 @@ the following criteria:
    - Would a wrong assumption cause downstream issues?
 
 If any of these checks fail, the output is revised or discarded.
+
+## Example
+
+- [Evaluating AI Output for an Inventory Workflow](examples/inventory-workflow-evaluation.md)
